@@ -1,2 +1,2 @@
 # Minidatabase-3DMD
-database using Microsoft Access, Javascript
+GUI for displaying 3DMD obj files (C#, Visual Studio)
