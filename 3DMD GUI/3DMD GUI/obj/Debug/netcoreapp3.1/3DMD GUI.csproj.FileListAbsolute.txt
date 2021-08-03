@@ -1,0 +1,52 @@
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.exe
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.deps.json
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.runtimeconfig.json
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.runtimeconfig.dev.json
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.dll
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.pdb
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.AssemblyReference.cache
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.GenerateResource.cache
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.AssemblyInfoInputs.cache
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.AssemblyInfo.cs
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.CoreCompileInputs.cache
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.dll
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.pdb
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.genruntimeconfig.cache
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.AssemblyReference.cache
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Form1.resources
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.GenerateResource.cache
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.AssemblyInfoInputs.cache
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.AssemblyInfo.cs
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.CoreCompileInputs.cache
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.dll
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.pdb
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.exe
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.deps.json
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.runtimeconfig.json
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.runtimeconfig.dev.json
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.dll
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.pdb
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.genruntimeconfig.cache
+C:\Users\h.eyal\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Properties.Resources.resources
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Properties.Resources.resources
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Main.resources
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Openfile.resources
+C:\Users\אייל חיימוב\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Options.resources
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.exe
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.deps.json
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.runtimeconfig.json
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.runtimeconfig.dev.json
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.dll
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\bin\Debug\netcoreapp3.1\3DMD GUI.pdb
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.AssemblyReference.cache
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Main.resources
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Openfile.resources
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Options.resources
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\_3DMD_GUI.Properties.Resources.resources
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.GenerateResource.cache
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.AssemblyInfoInputs.cache
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.AssemblyInfo.cs
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.csproj.CoreCompileInputs.cache
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.dll
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.pdb
+C:\Users\EYAL\OneDrive - Open University of Israel\3DMD GUI\3DMD GUI\3DMD GUI\obj\Debug\netcoreapp3.1\3DMD GUI.genruntimeconfig.cache
